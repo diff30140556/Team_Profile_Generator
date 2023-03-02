@@ -1,0 +1,29 @@
+/* root setting */
+*,*::after,*::before {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+ul{
+    list-style: none;
+}
+
+header{
+    background-color: rgb(246, 122, 122);
+}
+
+.card-body{
+    background-color: rgb(231, 231, 231);
+}
+
+.memberCard{
+    box-shadow: 3px 3px 6px 1px rgb(91, 91, 91);
+}

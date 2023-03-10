@@ -8,7 +8,7 @@ This is a backend tool to generate the team member list by using the command lin
 
 ## Demo
 
-[Demo video link]()
+[Demo video link](https://drive.google.com/file/d/1S1gibXkCIarTyHzEZDJgJRmC8jEpt7Hb/view)
 
 ## Table of Contents
 
